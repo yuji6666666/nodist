@@ -2,15 +2,15 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "module description"
+      "value": "Nodist - Node.js 版本管理器(HarmonyOS 适配版)"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "Nodist 主界面:Node.js 版本管理与 shim 执行控制台"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "Nodist"
     }
   ]
 }

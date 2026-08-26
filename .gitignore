@@ -5,6 +5,9 @@
 **/build
 /.hvigor
 .cxx
+/.hvigor-home
+/.npm-cache
+/.pnpm-store
 /.clangd
 /.clang-format
 /.clang-tidy

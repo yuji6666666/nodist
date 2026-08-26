@@ -21,3 +21,11 @@
 -enable-toplevel-obfuscation
 -enable-filename-obfuscation
 -enable-export-obfuscation
+
+# 保留 NAPI 原生模块导出的属性名,否则混淆后 testNapi.nodistInstall 等会变成 undefined
+-keep-property-name
+add
+nodistVersion
+nodistInstall
+nodistList
+nodistRun
